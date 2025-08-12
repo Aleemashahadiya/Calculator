@@ -1,7 +1,3 @@
-# Calculator
-Simple command-line calculator
--------------------------------
-
 # Command-Line Calculator (Python)
 
 This is a 'simple command-line calculator' built in Python.  
